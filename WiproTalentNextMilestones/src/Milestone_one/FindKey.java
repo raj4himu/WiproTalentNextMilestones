@@ -18,7 +18,6 @@ public class FindKey {
     		int a=input1 % 10;
     		int b=input2 % 10;
     		int c=input3 % 10;
-    		
     	    max=Math.max((Math.max(a, b)), c);
     	    min=Math.min((Math.min(a, b)), c);
     	    
